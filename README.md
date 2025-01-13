@@ -29,12 +29,33 @@
 
 # Ответ
 
-![alt text](https://github.com/stepanovsa061/)
+Workflows Project
 
-![alt text](https://github.com/stepanovsa061/)
+![alt text](https://github.com/stepanovsa061/09-ci-01/blob/main/1%20доски.PNG)
 
-![alt text](https://github.com/stepanovsa061/)
+Изменил статусы для столбцов
 
-![alt text](https://github.com/stepanovsa061/)
+![alt text](https://github.com/stepanovsa061/09-ci-01/blob/main/2%20Столбцы.PNG)
+
+
+Провёл bug по всему workflow до Done
+
+![alt text](https://github.com/stepanovsa061/09-ci-01/blob/main/3%20прогон%20bug.PNG)
+
+Workflow для bug
+
+![alt text](https://github.com/stepanovsa061/09-ci-01/blob/main/4%20workflow%20bug.PNG)
+
+
+Workflow для остальных
+
+
+![alt text](https://github.com/stepanovsa061/09-ci-01/blob/main/5%20wf_other.PNG)
+
+Провёл epic по всему workflow до Done
+
+![alt text](https://github.com/stepanovsa061/09-ci-01/blob/main/6%20other.PNG)
+
+
 
 
